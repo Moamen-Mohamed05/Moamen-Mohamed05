@@ -1,122 +1,165 @@
-# Hey there, I'm Moamen Mohamed 👋
+# Hey, I'm Moamen Mohamed 👋
 
-**Cyber Security Enthusiast · CS Student · Network & Security Learner 🔐**
-
-🚀 **Focus:** Cyber Security | Networking | Linux | Defensive Security
+**Cybersecurity Student · Cloud & AI Enthusiast · Security Researcher 🔐☁️**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
 </p>
 
 
 ## 🛡️ About Me
 
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200" alt="Coding GIF"/>
+<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="220"/>
 
-I am a Computer Science student passionate about Cyber Security and building strong foundations in:
+I am a Cybersecurity student at Menoufia University, passionate about building secure systems and understanding how technology works from both offensive and defensive perspectives.
 
-- Network Security
+My interests focus on:
+
+- Cyber Security & Risk Assessment
+- Cloud Security & AWS Architecture
 - Linux Administration
-- Security Operations (SOC)
-- Threat Detection & Analysis
-- Vulnerability Assessment
+- Network Security
+- AI & Machine Learning Systems
 
-I enjoy understanding how systems work, securing infrastructures, and continuously improving my technical skills through hands-on labs, projects, and real-world scenarios.
+I have hands-on experience through projects and training in cybersecurity frameworks, Linux environments, cloud concepts, and software development.
 
-Currently focusing on developing my skills in defensive security and preparing myself for a career in Cyber Security.
+Currently improving my skills in security operations, vulnerability assessment, and building practical security solutions.
 
 <br clear="right"/>
 
 
-## 🔧 Cyber Security Stack
+# 🔐 Cyber Security Skills
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D4?logo=cisco&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2C2D72?logo=gnuprivacyguard&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?logo=redhat&logoColor=white)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=hackaday&logoColor=white)
+
+![NIST](https://img.shields.io/badge/NIST-Cyber_Framework-blue)
+![ISO27001](https://img.shields.io/badge/ISO_27001-Security-green)
+
+
+## ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+Knowledge in:
+
+- AWS Cloud Foundations
+- Cloud Architecture
+- Compute & Storage Services
+- Networking Concepts
+- Scalability & High Availability
+- Monitoring & Security
+
+
+# 💻 Programming & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 
-## 🌐 Networking & Security Knowledge
-
-- OSI & TCP/IP Models
-- Network Infrastructure
-- Routing & NAT
-- Firewalls & Security Policies
-- VPN Concepts
-- Authentication & Access Control
-- Malware Prevention Basics
-- Intrusion Detection Concepts
+# 🚀 Featured Projects
 
 
-## 💻 Development Background
+## 🤖 Machine Learning Full Pipeline GUI
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Database](https://img.shields.io/badge/Database-003B57?logo=databricks&logoColor=white)
+Built a complete Machine Learning application supporting:
 
-I also have experience with:
-
-- Database Design
-- SQL Queries
-- Software Development Fundamentals
-- Problem Solving
-
-
-## 📚 Currently Learning
-
-🔹 Security+
-  
-🔹 SOC Analyst Skills
-
-🔹 Threat Hunting
-
-🔹 Log Analysis
-
-🔹 Network Defense
-
-🔹 Linux Security
+- Data Upload & Visualization
+- Data Preprocessing
+- Feature Engineering
+- Feature Selection
+- PCA & RFE
+- Handling Imbalanced Data
+- Classification / Regression / Clustering Models
 
 
-## 📊 GitHub Stats
+## 🖼️ Image Processing & Computer Vision GUI
+
+Implemented:
+
+- Histogram Processing
+- Filtering Techniques
+- Image Restoration
+- Segmentation
+- Edge Detection
+- Morphological Operations
+
+
+## 📚 C++ Library Management System
+
+Developed an object-oriented library management system with:
+
+- Book Cataloging
+- Borrowing System
+- Return Tracking
+- Modular OOP Design
+
+
+# 🧪 Cybersecurity Experience
+
+## Cyber Risk Assessment & Compliance Intern
+
+Worked on:
+
+- Vulnerability Identification
+- Risk Assessment
+- Threat Analysis
+- Security Gap Evaluation
+- NIST & ISO 27001 Controls Mapping
+- Risk Mitigation Strategies
+
+
+# 📚 Currently Learning
+
+🔹 Security+  
+🔹 SOC Analyst Skills  
+🔹 Threat Detection  
+🔹 Network Defense  
+🔹 Cloud Security  
+🔹 Vulnerability Assessment  
+
+
+# 🏆 Leadership & Community
+
+- Soft Skills Coordinator — DEPI
+- Vice President — AIEC Shebin El-Kom
+- HR Member — AIEC Shebin El-Kom
+- Event Organizer — GDG Shebin El-Kom
+- NASA Space Apps Challenge Organizer
+
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"/>
 
 </div>
 
 
-## 🎯 Goals
-
-Become a skilled Cyber Security Engineer by combining:
-
-🧠 Strong networking fundamentals  
-🔐 Security mindset  
-🐧 Linux expertise  
-⚙️ Hands-on practical experience  
-
-
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moamen-mohamed-536124357)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
 
 </div>
 
 
 ---
 
-⭐ "Learning, Breaking, Securing."
+**"Building, Securing, and Learning every day 🔐"**
