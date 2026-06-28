@@ -135,16 +135,6 @@ Worked on:
 - NASA Space Apps Challenge Organizer
 
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"/>
-
-</div>
-
 
 # 🔗 Connect With Me
 
